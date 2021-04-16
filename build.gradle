@@ -49,7 +49,7 @@ allprojects {
         jcenter()
         maven { url "https://jitpack.io" }
         mavenCentral()
-        maven { url 'https://esri.bintray.com/arcgis' }
+        maven { url 'https://esri.jfrog.io/artifactory/arcgis' }
     }
 }
 
